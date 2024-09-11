@@ -42,7 +42,7 @@ In der Ausführung <br>
 
 ## License
 
-[MIT]([https://choosealicense.com/licenses/mit/](https://www.eduvidual.at/mod/assign/view.php?id=6459788))
+[Aufgabenstellung]([(https://www.eduvidual.at/mod/assign/view.php?id=6459788]))
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
