@@ -29,7 +29,8 @@ Technologien im Einsatz:
 
 ## Screenshots
 
-[![Screen Shot][product-screenshot]](https://example.com)
+[![Screen Shot][product-screenshot]](![image](https://github.com/user-attachments/assets/bfdd4e3c-5493-45e1-9368-65fda97db9dd)
+)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
