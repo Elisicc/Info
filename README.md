@@ -30,7 +30,8 @@ Technologien im Einsatz:
 ## Screenshots
 
 [![Screen Shot][product-screenshot]](![image](https://github.com/user-attachments/assets/bfdd4e3c-5493-45e1-9368-65fda97db9dd)
-)
+)![Bild (3)](https://github.com/user-attachments/assets/4d09c136-a4eb-41b3-8445-16897ec8f3d2)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
