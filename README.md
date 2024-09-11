@@ -1,10 +1,11 @@
 <a name="readme-top"></a>
 # HelloWorld
-Author: Gerhard Jarz <br>
+Author: Elias Breitler <br>
+Knapp AG
 LBS Eibiswald | 2aAPC
 
 Nur eine Demo Anwendung...<br>
-Hier könnte die Anwendung erklärt werden...
+Dieses Programm ist eine simple Hello World Applikation welche mit einem print Befehl Hello World ausgibt
 
 ## Installation
 
